@@ -4,7 +4,6 @@ MVR #5,R2
 MOV #2,#6
 MVR #5,R4
 PRO #5
-SPD #4
 OBS #2,#9
 MOV #6,#6
 MVR #7,R7
